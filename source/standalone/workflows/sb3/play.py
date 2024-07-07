@@ -102,6 +102,8 @@ def main():
             actions, _ = agent.predict(obs, deterministic=True)
             # env stepping
             obs, _, _, _ = env.step(actions)
+            import time
+            time.sleep(50 / 1000)
 
     # close the simulator
     env.close()
