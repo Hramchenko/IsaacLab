@@ -1,0 +1,13 @@
+{
+    "python.analysis.extraPaths": [
+        "/hdd_0/user/ML/Robotics/IsaacLab/source/extensions/omni.isaac.lab/",
+        "/hdd_0/user/ML/Robotics/IsaacLab/source/extensions/omni.isaac.lab_assets/",
+        "/hdd_0/user/ML/Robotics/IsaacLab/source/extensions/omni.isaac.lab_tasks/",
+        "/home/user/miniconda3/envs/isaaclab/lib/python3.10/site-packages/stable_baselines3/",
+        "/home/user/miniconda3/envs/isaaclab/lib/python3.10/site-packages/gymnasium/",
+        "/home/user/miniconda3/envs/isaaclab/lib/python3.10/site-packages/"
+    ],
+    "python.analysis.fixAll": [
+        
+    ]
+}
